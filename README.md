@@ -1,4 +1,4 @@
-# 🚀 Workshop Prático de Git e GitHub
+# :octocat: Parte Prática da Aula de Git e GitHub
 
 Bem-vindo(a) a parte prática da nossa aula de Git e GitHub! Este repositório foi criado para que você possa praticar os conceitos que vimos na aula de forma segura e guiada.
 
