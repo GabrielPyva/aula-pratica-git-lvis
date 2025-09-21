@@ -1,1 +1,1 @@
-print("Ola, Mundo! Sou o Carlos. ")
+print("Ola, Mundo! Sou o Carlos.")
